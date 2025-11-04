@@ -1,0 +1,5 @@
+{
+  "name": "Voter List Extractor",
+  "description": "An AI-powered tool for Booth Level Agents to automatically extract and organize details from voter list documents. Upload an image of a voter roll page, and the application will parse information about the constituency, polling station, and individual voters into a structured, easy-to-read format.",
+  "requestFramePermissions": []
+}
